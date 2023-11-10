@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+@font-face {
+  font-family: 'HEINEKENCore';
+  font-style: normal;  
+  font-display: swap;
+  unicode-range: U+000-5FF; /* Download only latin glyphs */  
+  src: url('https://videos.whatfix.com/c1aa8b32-e33b-44d4-9f9c-5dea33a8b4cb/HEINEKEN%2BCore.woff2') format('woff2'),
+    url('https://videos.whatfix.com/c1aa8b32-e33b-44d4-9f9c-5dea33a8b4cb/HEINEKEN%2BCore.woff') format('woff');
+}
